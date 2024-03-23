@@ -53,7 +53,7 @@ source env_name/bin/activate
 pip install django
 ```
 ### 3. Change directory
-* Change into the 'project4' folder.
+* Change into the correct folder. You should be in the one which contains 'manage.py'.
 ### 4. Make migrations in Django
 ```
 # Check for any alterations to your project that need migrating
