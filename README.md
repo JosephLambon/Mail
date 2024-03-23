@@ -1,4 +1,4 @@
-# Email Web Application
+# Email
 >### A CS50W project
 
 ## Contents
