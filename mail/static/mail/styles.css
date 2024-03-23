@@ -1,0 +1,42 @@
+textarea {
+    min-height: 400px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.text {
+    display: block;
+    width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+.border {
+    border-style: solid 20px;
+    border-color: rgb(43, 43, 43);
+    border-radius: 8px;
+}
+
+.padded {
+    padding: 20px;
+}
+
+.pad-small {
+    padding: 5px;
+}
+
+.margin {
+    margin: 30px;
+}
+
+.read {
+    background-color: rgb(246, 244, 244);
+}
+
+.unread {
+    background-color: white;
+    font-weight: bold;
+}
