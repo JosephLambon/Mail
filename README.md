@@ -76,4 +76,11 @@ python manage.py runserver
 
 For this project, we were required to make a video displaying our web application's functionality. Feel free to watch this short exmaple of the final product. There are timestamps in the bio showing each of the implemented features.
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/NsjxrR-SHyg/mqdefault.jpg?sqp=CPCn_K8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLCuZg4IsUN8GCUHMwRSu1U8tow2OQ)](https://youtu.be/NsjxrR-SHyg)
+<a href='https://youtu.be/NsjxrR-SHyg'>
+<img width="1494" alt="Thumbnail" 
+ src="https://github.com/JosephLambon/Mail/assets/107887718/09e13841-3410-41b5-b7a6-93133ccedd40">
+</a>
+
+
+
+
