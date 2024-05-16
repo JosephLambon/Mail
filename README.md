@@ -1,5 +1,5 @@
 # Email
->### A CS50W project
+>### (CS50W) Project 3: An Email web application
 
 ## Contents
 1. [Project Synopsis](#project_synopsis)
